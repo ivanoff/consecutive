@@ -12,7 +12,7 @@
 
 ### Get consecutive numbers
 
- v5.0.2
+ v5.0.4
 
 
 ## Installation
@@ -26,7 +26,7 @@ var consecutive = require('consecutive');
 
 var next = consecutive();
 console.log(next(), next(), next());
-//=> 0, 1, 2
+//=> 0 1 2
 
 //starts with 5
 var begin = consecutive(5);

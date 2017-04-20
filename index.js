@@ -17,7 +17,7 @@ module.exports = function (begin, base, inc) {
       res = number;
       number += inc;
     } else {
-      res = number.toString();
+      res = (number === begin) ? (parseInt(number, base)).toString(base) : number.toString();
       number = (parseInt(number, base) + inc).toString(base);
     }
 

@@ -45,6 +45,16 @@ console.log(base16(), base16(), base16());
 
 ```
 
+### TypeScript Usage Example
+
+```javascript
+import consecutive from 'consecutive';
+
+const next = consecutive();
+console.log(next(), next(), next());
+//=> 0 1 2
+```
+
 
 ## API
 

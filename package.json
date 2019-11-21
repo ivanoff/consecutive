@@ -1,6 +1,6 @@
 {
   "name": "consecutive",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "Consecutive numbering",
   "main": "index.js",
   "scripts": {

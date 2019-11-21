@@ -12,7 +12,7 @@
 
 ### Get consecutive numbers
 
- v5.0.4
+ v5.0.5
 
 
 ## Installation

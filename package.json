@@ -1,8 +1,9 @@
 {
   "name": "consecutive",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "description": "Consecutive numbering",
   "main": "index.js",
+  "types": "typings.d.ts",
   "scripts": {
     "test": "node_modules/.bin/mocha"
   },
